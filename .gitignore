@@ -14,3 +14,8 @@ nbproject
 # Ignore the PhpStorm project folder
 #
 .idea
+
+#
+#Ignore Mac OS folder file
+#
+.DS_Store
